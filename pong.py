@@ -42,8 +42,8 @@ boll.shape("square")
 boll.color("white")
 boll.penup()
 boll.goto(0,0)
-boll.dx = 0.1
-boll.dy = 0.1
+boll.dx = 0.2
+boll.dy = 0.2
 
 
 # penna 
