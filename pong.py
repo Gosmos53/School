@@ -128,3 +128,21 @@ while True:
     
     if boll.xcor() > 340 and boll.ycor() < paddel_b.ycor() + 50 and boll.ycor() > paddel_b.ycor() - 50:
         boll.dx *= -1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# vad jag ska göra imorgon 
+# https://pythonbasics.org/python-play-sound/
